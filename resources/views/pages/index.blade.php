@@ -1,0 +1,10 @@
+@extends('layouts.main')
+@section('content')
+<x-sections.hero></x-sections.hero>
+<x-sections.video></x-sections.video>
+<x-sections.client></x-sections.client>
+<x-sections.business></x-sections.business>
+<x-sections.catalog></x-sections.catalog>
+<x-sections.portfolio></x-sections.portfolio>
+<x-sections.news></x-sections.news>
+@endsection
